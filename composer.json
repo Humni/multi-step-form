@@ -1,0 +1,12 @@
+{
+    "name": "humni/multi-step-form",
+    "description": "A 1 file multi-step form animator",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nicholas Humphries",
+            "email": "nicholas.humphries0@gmail.com"
+        }
+    ]
+}

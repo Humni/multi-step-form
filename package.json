@@ -1,0 +1,22 @@
+{
+  "name": "multi-step-form",
+  "version": "0.1.0",
+  "description": "A jQuery 1 file multi-step form handler",
+  "main": "multi-step-form.js",
+  "repository": "https://github.com/Humni/multi-step-form.git",
+  "author": "Nicholas Humphries <nicholas.humphries0@gmail.com> (https://github.com/Humni)",
+  "license": "MIT",
+  "keywords": [
+    "javascript",
+    "jquery",
+    "form",
+    "multi-step"
+  ],
+  "bugs": {
+    "url": "https://github.com/Humni/multi-step-form/issues"
+  },
+  "homepage": "https://github.com/Humni/multi-step-form#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
