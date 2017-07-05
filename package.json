@@ -1,5 +1,5 @@
 {
-  "name": "multi-step-form",
+  "name": "js-multi-step-form",
   "version": "0.1.0",
   "description": "A jQuery 1 file multi-step form handler",
   "main": "multi-step-form.js",
